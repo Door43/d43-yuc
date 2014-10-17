@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yuc:home|Door43 (yuc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yuc|d43-yuc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yuc/archive/master.zip|d43-yuc.zip]]
+
+**Recent Changes**
+{{changes>ns = yuc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yuc|Ethnologue data]]
+
